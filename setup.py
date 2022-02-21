@@ -22,7 +22,7 @@ setup(
         "certifi==2021.10.8",
         "chardet==4.0.0",
         "elementpath==2.4.0",
-        "fints==3.0.1",
+        "fints==3.1.0",
         "idna==3.3; python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3'",
         "mt-940==4.23.0",
         "packaging==21.3; python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3'",
